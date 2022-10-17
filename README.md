@@ -1,5 +1,5 @@
 
-- ⚡ Atualmente estou aprendendo a linguagem de programação JAVA no curso de Engenharia de Software da Universidade Católica de Salvador (UCSAL), paralelamente faço alguns cursos online onde estou aprendendo JAVASCRIPT,Python e outras linguagens a mais, também tenho uma enorme fome de conhecimento e eu estou sempre disposto a aprender e aprimorar o que já sei.
+- ⚡ Atualmente estou aprendendo a linguagem de programação JAVA no curso de Engenharia de Software da Universidade Católica de Salvador (UCSAL), paralelamente faço alguns cursos online onde estou aprendendo JAVASCRIPT,Python e outras linguagens a mais, também tenho uma enorme fome de conhecimento e eu estou sempre disposto a aprender e aprimorar o que já sei
 
 <div align="center">
   <a href="https://github.com/caioobrh3">
