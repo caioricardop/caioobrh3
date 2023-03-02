@@ -1,7 +1,7 @@
 
 - ⚡ Sou um estudante de Engenharia de Software na Universidade Católica de Salvador (UCSAL), iniciando no ano de 2021. Sou um entusiasta das novas tecnologias do mercado e estou constantemente buscando aprender mais para aprimorar minhas habilidades.
 
-Meu foco atual é no desenvolvimento com Python, Java, entre outras tecnologias, que uso para criar aplicações práticas e funcionais. Considero-me ágil e consistente em aprender novas tecnologias e sou altamente adaptável às mudanças, pronto para enfrentar qualquer desafio que possa surgir.
+- ⚡Meu foco atual é no desenvolvimento com Python, Java, entre outras tecnologias, que uso para criar aplicações práticas e funcionais. Considero-me ágil e consistente em aprender novas tecnologias e sou altamente adaptável às mudanças, pronto para enfrentar qualquer desafio que possa surgir.
 
 <div align="center">
   <a href="https://github.com/caioobrh3">
