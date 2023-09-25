@@ -26,9 +26,3 @@
 <br/>Desenvolvi meu site de portfólio com React, HTML, CSS e JavaScript, garantindo uma experiência responsiva em diversos dispositivos. Além disso, utilizei o Git para um controle eficiente de versão, e ussei o vercel para colocalo no ar feito totalmente do zero </p> <br/> <br/>
 <p align="left">
 
-
-
-<div>
-  <a href="https://github.com/caioricardop">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioricardop&layout=compact&langs_count=7&theme=dracula"/>
-</div>
