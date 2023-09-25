@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+&pause=1000&color=2700AE&width=435&lines=Ol%C3%A1+sou+Engenheiro+de+Software+;com+foco+em+Front-end)](https://git.io/typing-svg)
 
-- ⚡ Sou estudante de Engenharia de Software na UCSAL uniciado em 2021, sou apaixonado por tecnologias com foco no Front-End usando JavaScript, HTML, CSS e afins para criar aplicações práticas. Sou ágil em aprender, adaptável, com presença ativa no GitHub. Estou pronto para contribuir em novos desafios.
+⚡ Sou estudante de Engenharia de Software na UCSAL uniciado em 2021, sou apaixonado por tecnologias com foco no Front-End usando JavaScript, HTML, CSS e afins para criar aplicações práticas. Sou ágil em aprender, adaptável, com presença ativa no GitHub. Estou pronto para contribuir em novos desafios.
 
 ## 🛠 &nbsp;Habilidades
 
